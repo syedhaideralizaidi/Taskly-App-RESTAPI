@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'drf_social_oauth2',
     'users',
     'house',
+    'tasks',
 ]
 
 # Application definition
